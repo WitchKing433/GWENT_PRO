@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c8f2c70dddb114c9b90f992f1cc866, type: 3}
+  m_Name: Drive
+  m_EditorClassIdentifier: 
+  sCardName: Drive
+  iCardPower: 4
+  sCardType: Silver
+  sCardDescription: Multiplica su ataque por la cantidad de cartas iguales en el
+    campo.
+  iCardSkill: 0
+  sCardAtkType: S
